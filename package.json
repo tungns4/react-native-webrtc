@@ -1,0 +1,61 @@
+{
+  "_args": [
+    [
+      "react-native-webrtc@github:jitsi/react-native-webrtc#bef77e748b9e4208da068e7e8f1a4ff464820d83",
+      "D:\\vcr1\\TOPKID"
+    ]
+  ],
+  "_from": "react-native-webrtc@github:jitsi/react-native-webrtc#bef77e748b9e4208da068e7e8f1a4ff464820d83",
+  "_id": "react-native-webrtc@github:jitsi/react-native-webrtc#bef77e748b9e4208da068e7e8f1a4ff464820d83",
+  "_inBundle": false,
+  "_integrity": "",
+  "_location": "/react-native-webrtc",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "git",
+    "raw": "react-native-webrtc@github:jitsi/react-native-webrtc#bef77e748b9e4208da068e7e8f1a4ff464820d83",
+    "name": "react-native-webrtc",
+    "escapedName": "react-native-webrtc",
+    "rawSpec": "github:jitsi/react-native-webrtc#bef77e748b9e4208da068e7e8f1a4ff464820d83",
+    "saveSpec": "github:jitsi/react-native-webrtc#bef77e748b9e4208da068e7e8f1a4ff464820d83",
+    "fetchSpec": null,
+    "gitCommittish": "bef77e748b9e4208da068e7e8f1a4ff464820d83"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "github:jitsi/react-native-webrtc#bef77e748b9e4208da068e7e8f1a4ff464820d83",
+  "_spec": "github:jitsi/react-native-webrtc#bef77e748b9e4208da068e7e8f1a4ff464820d83",
+  "_where": "D:\\vcr1\\TOPKID",
+  "author": {
+    "name": "Oney",
+    "email": "appdevoney@gmail.com"
+  },
+  "bugs": {
+    "url": "https://github.com/oney/react-native-webrtc/issues"
+  },
+  "dependencies": {
+    "base64-js": "^1.1.2",
+    "event-target-shim": "^1.0.5",
+    "prop-types": "^15.5.10"
+  },
+  "description": "WebRTC for React Native",
+  "homepage": "https://github.com/oney/react-native-webrtc",
+  "keywords": [
+    "react-component",
+    "react-native",
+    "ios",
+    "android",
+    "webrtc"
+  ],
+  "name": "react-native-webrtc",
+  "nativePackage": true,
+  "peerDependencies": {
+    "react-native": ">=0.40.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oney/react-native-webrtc.git"
+  },
+  "version": "1.58.2"
+}
